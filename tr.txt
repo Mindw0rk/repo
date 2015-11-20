@@ -1,0 +1,2 @@
+print("Tr");
+print("With Pentium 5 u must reboot faster...");
