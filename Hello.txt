@@ -2,7 +2,7 @@
 #include<conio.h>
 main()
 {
-printf("Achtung!!! Cerebration!");
+printf("%-20s", "Achtung!!! Cerebration!");
 getch();
 MessageBox.Show("Cerebration Ich sagen...")
 printf("%s", ""Невероятно! Но это текст");
