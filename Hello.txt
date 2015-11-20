@@ -2,6 +2,6 @@
 #include<conio.h>
 main()
 {
-printf("Achtung!!! Cerebration!");
+printf("%-20s", "Achtung!!! Cerebration!");
 getch();
 }
