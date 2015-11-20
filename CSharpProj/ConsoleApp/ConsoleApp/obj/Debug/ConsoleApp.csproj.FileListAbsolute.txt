@@ -1,0 +1,6 @@
+D:\GIT\GIThub\repo.git\CSharpProj\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\GIT\GIThub\repo.git\CSharpProj\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\GIT\GIThub\repo.git\CSharpProj\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\GIT\GIThub\repo.git\CSharpProj\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+D:\GIT\GIThub\repo.git\CSharpProj\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\GIT\GIThub\repo.git\CSharpProj\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
