@@ -5,5 +5,5 @@ main()
 printf("Achtung!!! Cerebration!");
 getch();
 MessageBox.Show("Cerebration Ich sagen...")
-
+printf("%s", ""Невероятно! Но это текст");
 }
